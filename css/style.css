@@ -81,3 +81,32 @@ hr {
   color: #1d1d1d;
   margin-bottom: 1em;
 }
+.button-order {
+  width: -webkit-fill-available;
+}
+.container-top {
+  left: 50%;
+}
+.col-top {
+  margin-right: 0em;
+}
+p.price {
+  margin-bottom: 0px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 1em;
+  color: #1d1d1d;
+  margin-bottom: 2em;
+}
+.join-container {
+  margin-top: 6em;
+  margin-bottom: 6em;
+}
+.join {
+  padding-top: 2em;
+  max-width: 40%;
+}
+p.join-title {
+  font-size: 1.5em;
+}
