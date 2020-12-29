@@ -91,7 +91,6 @@ hr {
   margin-right: 0em;
 }
 p.price {
-  margin-bottom: 0px;
   font-family: Poppins;
   font-style: normal;
   font-weight: bold;
@@ -109,4 +108,28 @@ p.price {
 }
 p.join-title {
   font-size: 1.5em;
+}
+.footer {
+  margin-top: 12em;
+  background-color: #020203;
+  height: 300px;
+}
+p.kontak {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.7em;
+  color: #ffffff;
+}
+.container-footer {
+  padding-top: 4em;
+}
+p.top-label {
+  margin-top: 4em;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 1.4em;
+  color: #1d1d1d;
+  margin-bottom: 1em;
 }
